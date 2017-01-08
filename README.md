@@ -1,3 +1,7 @@
+Please use the new home of Color Pattern Tracker on Samsung's official github account [http://github.com/Samsung/ColorPatternTracker](http://github.com/Samsung/ColorPatternTracker) 
+
+This repository is not up-to-date!
+
 Color Pattern Tracker: User Guide
 ==========
 
